@@ -1,3 +1,3 @@
 import numpy
-a = 3+4
+a = 3+7
 print(a)
